@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AlphatheCreative
-- 👀 I’m interested in Coding and blog writing
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 reach me mjawad11630@gmail.com
-- 😄 Pronouns: he/him
+👋 Hi, I'm Alpha — a Full-Stack Developer & Embedded Systems Engineer
+👀 Interested in Web Development, Robotics, AI, and Hardware-Software Integration
+🌱 Currently expanding into Machine Learning and Advanced Embedded Systems
+💞️ Open to collaborating on Web Apps, Desktop Tools, IoT Projects, and Robotics
+📫 Reach me at mjawad11630@gmail.com
+😄 Pronouns: he/him
   
 
 <!---
